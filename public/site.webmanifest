@@ -1,0 +1,18 @@
+{
+  "name": "Sareyu — Bridal Makeup Artist Hyderabad",
+  "short_name": "Sareyu",
+  "description": "Premium bridal & editorial makeup artist in Hyderabad by Mathangi Saraswathi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a0b1f",
+  "theme_color": "#1a0b1f",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dadu9qcfz/image/upload/v1777485113/IMG-20260429-WA0014_uub6e0.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

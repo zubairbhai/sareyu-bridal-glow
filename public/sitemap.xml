@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sareyu-bridal-glow.lovable.app/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sareyu-bridal-glow.lovable.app/"/>
+    <xhtml:link rel="alternate" hreflang="te" href="https://sareyu-bridal-glow.lovable.app/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://sareyu-bridal-glow.lovable.app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sareyu-bridal-glow.lovable.app/"/>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dadu9qcfz/image/upload/v1777482222/IMG-20260429-WA0002_zto43i.jpg</image:loc>
+      <image:title>Sareyu Bridal Makeup</image:title>
+      <image:caption>Premium bridal makeup by Mathangi Saraswathi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dadu9qcfz/image/upload/v1777553780/40c9cf76-c8c4-4662-9981-b9c6119f6e68_f5nvdl.png</image:loc>
+      <image:title>Sareyu Bridal Editorial</image:title>
+    </image:image>
+  </url>
+</urlset>
